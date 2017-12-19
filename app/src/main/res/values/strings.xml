@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Balok</string>
+    <string name="luas_permukaan_balok">Luas Permukaan Balok</string>
+    <string name="panjang">Panjang :</string>
+    <string name="masukkan_panjang">masukkan panjang</string>
+    <string name="lebar">Lebar :</string>
+    <string name="masukan_lebar">masukan lebar</string>
+    <string name="hitung">Hitung</string>
+    <string name="dibuat_oleh">dibuat oleh</string>
+    <string name="tinggi">Tinggi :</string>
+    <string name="masukan_tinggi">masukan tinggi</string>
+</resources>
